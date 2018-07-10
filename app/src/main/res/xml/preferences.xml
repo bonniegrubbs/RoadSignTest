@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ListPreference
+        android:entries="@array/guesses_list"
+        android:entryValues="@array/guesses_list"
+        android:key="pref_numberOfChoicesx"
+        android:title="@string/number_of_choices"
+        android:summary="@string/number_of_choices_description"
+        android:persistent="true"
+        android:defaultValue="4" />
+
+    <MultiSelectListPreference
+        android:entries="@array/signs_list_for_settings"
+        android:entryValues="@array/signs_list"
+        android:key="pref_signsToInclude"
+        android:title="@string/road_signs"
+        android:summary="@string/road_signs_description"
+        android:persistent="true"
+        android:defaultValue="@array/signs_list"/>
+
+</PreferenceScreen>

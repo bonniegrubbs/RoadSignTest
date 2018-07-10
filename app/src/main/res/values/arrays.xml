@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="guesses_list">
+        <item>2</item>
+        <item>4</item>
+        <item>6</item>
+        <item>8</item>
+    </string-array>
+
+    <string-array name="signs_list">
+        <item>Bicycles_Keep_Left</item>
+        <item>Bicycle_Traffic</item>
+        <item>Deer_Crossing</item>
+        <item>Flagger_Ahead</item>
+        <item>Hill_Warning</item>
+        <item>Left_Lane_Ends</item>
+        <item>Men_At_Work</item>
+        <item>No_Parking_Bike_Lane</item>
+        <item>No_Pedestrian_Traffic</item>
+        <item>No_U_Turn</item>
+        <item>Pedestrian_Crossing</item>
+        <item>Playground</item>
+        <item>School_Zone</item>
+        <item>Slow_Children_Playing</item>
+        <item>Stop_Ahead</item>
+    </string-array>
+
+    <string-array name="signs_list_for_settings">
+        <item>Bicycles_Keep_Left</item>
+        <item>Bicycle_Traffic</item>
+        <item>Deer_Crossing</item>
+        <item>Flagger_Ahead</item>
+        <item>Hill_Warning</item>
+        <item>Left_Lane_Ends</item>
+        <item>Men_At_Work</item>
+        <item>No_Parking_Bike_Lane</item>
+        <item>No_Pedestrian_Traffic</item>
+        <item>No_U_Turn</item>
+        <item>Pedestrian_Crossing</item>
+        <item>Playground</item>
+        <item>School_Zone</item>
+        <item>Slow_Children_Playing</item>
+        <item>Stop_Ahead</item>
+    </string-array>
+
+</resources>
